@@ -4,7 +4,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?text=%F0%9F%91%8B%20Hello,%20World!&animation=fadeIn&type=waving&color=_custom_gradient:0:44624a,25:8ba888,50:c0cfb2,75:f1ebe1,100:ffffff&height=100" alt="Hello Banner"/>
 </p>
-
 <h1 align="center">I’m José Daniel Cruz Aguilar</h1>
 <h3 align="center">Data Scientist • Process Improvement Engineer • MSc in Data Analysis & Decision Making (UPV)</h3>
 
