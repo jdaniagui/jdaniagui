@@ -9,14 +9,14 @@
 
 ---
 
-### 🔍 About Me
+### About Me
 I’m a data-driven engineer passionate about **turning complex datasets into actionable insights**.  
 Currently pursuing a **Master’s in Data Analysis, Process Improvement, and Decision Making** at the **Universitat Politècnica de València (Spain)**, developing analytical frameworks for sustainability and decision support systems.  
 My work combines **statistical modeling**, **data visualization**, and **machine learning** to improve processes, guide data governance, and enable evidence-based policies.
 
 ---
 
-### 📊 Focus Areas
+### Focus Areas
 - Statistical modeling & predictive analytics with **Python** and **R**  
 - Design of **multidimensional sustainability indices (ICDS)**  
 - **Data visualization & storytelling** using Power BI / Tableau  
@@ -25,7 +25,7 @@ My work combines **statistical modeling**, **data visualization**, and **machine
 
 ---
 
-### 🧠 Technical Skills
+### Technical Skills
 
 **Programming & Data Analysis**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -60,13 +60,13 @@ My work combines **statistical modeling**, **data visualization**, and **machine
 
 ---
 
-### 📝 Latest Blog Posts
+### Latest Blog Posts
 - Placeholder
 - Placeholder
 
 ---
 
-### 📫 Let’s Connect
+### Let’s Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-José%20Daniel%20Cruz%20Aguilar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josedanielcruzaguilar)  
 [![Email](https://img.shields.io/badge/Email-jdanagui%40proton.me-008000?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:jdanagui@proton.me)  
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0003--2083--7660-00A0E3?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0003-2083-7660)
