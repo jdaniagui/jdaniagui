@@ -78,11 +78,17 @@ My work combines **statistical modeling**, **data visualization**, and **machine
 ---
 
 ### Let’s Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jos%C3%A9%20Daniel%20Cruz%20Aguilar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josedanielcruzaguilar) 
-[![ProtonMail](https://img.shields.io/badge/Email-jdanagui@proton.me-8A3FFC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:jdanagui@proton.me) 
-[![ORCID](https://img.shields.io/badge/ORCID-0000--0003--2083--7660-00A0E3?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0003-2083-7660) 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jos%C3%A9%20Daniel%20Cruz%20Aguilar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josedanielcruzaguilar)  
+
+[![Proton Mail](https://img.shields.io/badge/Email-jdanagui@proton.me-8E8CD8?style=for-the-badge&logo=proton&logoColor=white)](mailto:jdanagui@proton.me)  
+
+[![ORCID](https://img.shields.io/badge/ORCID-0000-0003-2083-7660-00A0E3?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0003-2083-7660)  
+
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-José%20Daniel%20Cruz%20Aguilar-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Jose-Daniel-Cruz-Aguilar?ev=hdr_xprf)
 
 ---
-
-<p align="center"><em>“Transforming data into strategic decisions through statistical analysis, AI, and process improvement.”</em></p>
+<p align="center">
+  <em>“All models are wrong, but some are useful.”</em><br>
+  <span style="display:block; text-align:right;">- George Box (1976)</span>
+</p>
