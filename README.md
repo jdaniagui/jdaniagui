@@ -70,7 +70,7 @@ My work combines **statistical modeling**, **data visualization**, and **machine
 ### 📫 Let’s Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-José%20Daniel%20Cruz%20Aguilar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josedanielcruzaguilar)  
 [![Email](https://img.shields.io/badge/Email-jdanagui%40proton.me-008000?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:jdanagui@proton.me)  
-[![ORCID](https://img.shields.io/badge/ORCID-0000-0003-2083-7660-00A0E3?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0003-2083-7660)  
+[![ORCID](https://img.shields.io/badge/ORCID-0000--0003--2083--7660-00A0E3?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0003-2083-7660)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-José%20Daniel%20Cruz%20Aguilar-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Jose-Daniel-Cruz-Aguilar?ev=hdr_xprf)
 
 ---
