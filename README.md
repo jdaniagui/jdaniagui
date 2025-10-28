@@ -90,5 +90,5 @@ My work combines **statistical modeling**, **data visualization**, and **machine
 ---
 <p align="center">
   <em>“All models are wrong, but some are useful.”</em><br>
-  <span style="display:block; text-align:right;">- George Box (1976)</span>
+  <span style="display:block; text-align:right;">George Box (1976)</span>
 </p>
