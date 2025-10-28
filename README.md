@@ -91,34 +91,6 @@ My work combines **statistical modeling**, **data visualization**, and **machine
 
 ---
 
-### 🐍 Contribution Snake
-
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
-
-Setup workflow in `.github/workflows/main.yml`:
-
-```yaml
-name: Generate Datas
-on:
-  schedule:
-    - cron: "* */12 * * *"
-  workflow_dispatch:
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@master
-        with:
-          github_user_name: jdanielcrag
-          svg_out_path: dist/github-contribution-grid-snake.svg
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
----
-
 ### 💻 Technology & 🚀 Projects
 <!-- START OF PROFILE STACK, DO NOT REMOVE -->
 | 💻 Technology | 🚀 Projects |
