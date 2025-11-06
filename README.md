@@ -10,9 +10,13 @@
 ---
 
 ### About Me
-I’m a data-driven engineer passionate about **turning complex datasets into actionable insights**.  
-Currently pursuing a **Master’s in Data Analysis, Process Improvement, and Decision Making** at the **Universitat Politècnica de València (Spain)**, developing analytical frameworks for sustainability and decision support systems.  
-My work combines **statistical modeling**, **data visualization**, and **machine learning** to improve processes, guide data governance, and enable evidence-based policies.
+I’m a data-driven Engineer who transforms complex data into meaningful, actionable insights that support smarter decisions.
+
+I hold a Master’s in Data Analysis, Process Improvement, and Decision Making from the Universitat Politècnica de València (Spain), where I specialized in developing analytical frameworks for sustainability, performance optimization, and strategic decision support systems.
+
+My professional focus lies at the intersection of statistical modeling, data visualization, and machine learning, applying advanced analytical techniques to improve processes, enhance data governance, and enable evidence-based policies across organizations.
+
+I am highly motivated by challenges that require both technical expertise and critical thinking — turning data into knowledge, and knowledge into measurable value.
 
 ---
 
